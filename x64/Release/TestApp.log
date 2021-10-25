@@ -1,0 +1,12 @@
+﻿  compilation object save succeeded; see D:\PFE\TestApp\x64\Release\TestApp\SamplePixelShader.cso
+  compilation object save succeeded; see D:\PFE\TestApp\x64\Release\TestApp\SampleVertexShader.cso
+  pch.cpp
+  App.cpp
+  DeviceResources.cpp
+  TestAppMain.cpp
+  Sample3DSceneRenderer.cpp
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 2851 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  TestApp.vcxproj -> D:\PFE\TestApp\x64\Release\TestApp\TestApp.exe

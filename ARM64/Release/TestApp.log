@@ -1,0 +1,6 @@
+﻿  App.cpp
+D:\PFE\TestApp\App.cpp(171,1): warning C4447: signature 'main' trouvée sans modèle de thread. Envisagez d'utiliser 'int main(Platform::Array<Platform::String^>^ args)'.
+D:\PFE\TestApp\App.cpp(252,59): warning C4267: '=' : conversion de 'size_t' en 'uint32_t', perte possible de données
+  Génération de code en cours
+  Fin de la génération du code
+  TestApp.vcxproj -> D:\PFE\TestApp\ARM64\Release\TestApp\TestApp.exe
